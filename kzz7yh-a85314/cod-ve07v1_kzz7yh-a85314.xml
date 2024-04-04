@@ -71,6 +71,7 @@
    </p>
             <div xml:id="kzz7yh-a85314-Dd1e120">
                <head xml:id="kzz7yh-a85314-Hd1e122">Quaestio 1</head>
+               <head type="question-title">Utrum predestinatio passive dicta quo ad principale significatum sit in predestinante</head>
                <p xml:id="kzz7yh-a85314-d1e124">
                   <lb ed="#V" n="16"/>¶ Questio I. 
       <lb ed="#V" n="17"/>PRimo ostendo quod praedestinatio 
@@ -82,7 +83,7 @@
    </p>
                <p xml:id="kzz7yh-a85314-d1e142">
       ¶ Item in diffinitione illius rei que est in praedestinante 
-      <lb ed="#V" n="23"/>non cadit aliquid creatum: quia predestinans deus est: et ominis 
+      <lb ed="#V" n="23"/>non cadit aliquid creatum: quia predestinans deus est: et omnis 
       <lb ed="#V" n="24"/>res existens in deo: deus est. Sed in diffinitione 
       praedestina<lb ed="#V" n="25" break="no"/>tionis etiam passiue dicte cadit aliquid creatum scilicet gratia et 
       glo<lb ed="#V" n="26" break="no"/>ria. Predestinari enim est preperari ad finalem gratiam in praesenti: 
@@ -90,7 +91,7 @@
       <lb ed="#V" n="28"/>praedestinante.
    </p>
                <p xml:id="kzz7yh-a85314-d1e158">
-      ¶ Item philosophus. 3. physi. dicit quod actio est ab 
+      ¶ Item <ref>philosophus. 3. physi.</ref> dicit quod actio est ab 
       agen<lb ed="#V" n="29" break="no"/>te in passo. Sed praedestinare est actio quedam: ergo 
       praedesti<lb ed="#V" n="30" break="no"/>natio actiua est a predestinante in praedestinato: ergo multo 
       <lb ed="#V" n="31"/>fortius praedestinatio passiua. restat ergo quod non sit in praedstinante. 
@@ -118,9 +119,9 @@
                   <lb ed="#V" n="44"/>Predestinatio enim est prescintia practica 
       salu<lb ed="#V" n="45" break="no"/>tis alicuius et ordinationis ipsius 
       <lb ed="#V" n="46"/>in salutem. sed praescientia dei practica non est nisi respectu 
-      <lb ed="#V" n="47"/>eorum que facturus est: et quicquid facturus est: proposuit 
-      ab<lb ed="#V" n="48" break="no"/>eterno se facturum in tempore: et potuit ab eterno illud operari 
-      in<lb ed="#V" n="49" break="no"/>tempore: ergo praedestinatio quamuis formaliter dicat prescientiam 
+      <lb ed="#V" n="47"/>eorum que facturus est: et quicquid facturus est: proposuit ab 
+      <lb ed="#V" n="48"/>eterno se facturum in tempore: et potuit ab eterno illud operari in 
+      <lb ed="#V" n="49"/>tempore: ergo praedestinatio quamuis formaliter dicat prescientiam 
       <lb ed="#V" n="50"/>practicam salutis alicuius et ordinationis ipsius in salutem: 
       <lb ed="#V" n="51"/>includit tamen propositum saluandi et ordinandi in 
       sa<lb ed="#V" n="52" break="no"/>lutem illum qui predestinatus est: et potentiam hoc faciendi 
@@ -143,8 +144,8 @@
       <!--00262.xml-->
       <cb ed="#P" n="b"/>
                   <lb ed="#V" n="69"/>tio est gratie preperatio: ibi subiungitur: comprehendens etiam 
-      glo<lb ed="#V" n="70" break="no"/>riam: ita tamen conotat sanctum effectum in 
-      predestinato<lb ed="#V" n="71" break="no"/>quod ille effectus in reali et actuali existentia et ipsa 
+      glo<lb ed="#V" n="70" break="no"/>riam: ita tamen conotat sanctum effectum in predestinato 
+      <lb ed="#V" n="71" break="no"/>quod ille effectus in reali et actuali existentia et ipsa 
       praedestina<lb ed="#V" n="72" break="no"/>tio simui esse non possunt. Illum enim qui iam saluatus est 
       <lb ed="#V" n="73"/>deus non praedestinat: sicut rem per quam proesenus est: deus non 
       pre<lb ed="#V" n="74" break="no"/>scit. Ex dictis patet quomodo predestinatio se hebeat ad praescientiam et 
@@ -174,12 +175,13 @@
             </div>
             <div xml:id="kzz7yh-a85314-Dd1e314">
                <head xml:id="kzz7yh-a85314-Hd1e316">Quaestio 2</head>
+               <head type="question-title">Utrum predestinatio sit eterna</head>
                <p xml:id="kzz7yh-a85314-d1e318">
                   <lb ed="#V" n="89"/>¶ Questio. II. 
-      <lb ed="#V" n="90"/>Ecundo queritur vtrum praedestinatio sit 
+      <lb ed="#V" n="90"/>SEcundo queritur vtrum praedestinatio sit 
       eter<lb ed="#V" n="91" break="no"/>na et videtur quod non: quia 
-      predesti<lb ed="#V" n="92" break="no"/>natio importat ordinem predestinantis ad predest: 
-      <lb ed="#V" n="93"/>natum non ad praedestinatum secundum esse quod habet in 
+      predesti<lb ed="#V" n="92" break="no"/>natio importat ordinem predestinantis ad 
+      predesti<lb ed="#V" n="93" break="no"/>natum non ad praedestinatum secundum esse quod habet in 
       <lb ed="#V" n="94"/>deo: ergo secundum esse quod habet in genere proprio quod esse temporale 
       <lb ed="#V" n="95"/>est: fed illud quod importat ordinem ad aliquid temporale non est 
       <lb ed="#V" n="96"/>eternum: ergo praedestinatio non est eterna.
@@ -201,7 +203,7 @@
     </p>
                <p xml:id="kzz7yh-a85314-d1e362">
                   <lb ed="#V" n="106"/>Contra praedestinatio est species dine prescientie. Sed 
-      <lb ed="#V" n="107"/>vomina prescita ab eterno sunt prescita: ergo 
+      <lb ed="#V" n="107"/>omnia prescita ab eterno sunt prescita: ergo 
       <lb ed="#V" n="108"/>omnes predestinati ab eterno sunt predestinati.
    </p>
                <p xml:id="kzz7yh-a85314-d1e372">
@@ -211,17 +213,17 @@
       an<lb ed="#V" n="111" break="no"/>te mundi constitutionem: ergo ab eterno. 
    </p>
                <p xml:id="kzz7yh-a85314-d1e381">
-                  <lb ed="#V" n="112"/>Respondeo quo praedestinatio est eterna: quod sic patet 
+                  <lb ed="#V" n="112"/>Respondeo quod praedestinatio est eterna: quod sic patet 
       <lb ed="#V" n="113"/>De intellectu predestinationis tria 
       <lb ed="#V" n="114"/>sunt scilicet principale significatum: quod est dei scientia practica: 
-      tem<lb ed="#V" n="115" break="no"/>porale connotatum: vt futurum scilicet finalis gratia: et 
-      perpetua<lb ed="#V" n="116" break="no"/>gloria: et antecessio principalis significati ad connotatum 
+      tem<lb ed="#V" n="115" break="no"/>porale connotatum: vt futurum scilicet finalis gratia: et perpetua 
+      <lb ed="#V" n="116"/>gloria: et antecessio principalis significati ad connotatum 
       <lb ed="#V" n="117"/>sed significatum: hoc est scientia dei practica eretnum est: et 
       <lb ed="#V" n="118"/>illa antecessio eterna est: et connotatum ab eterno fuit futurum 
       <lb ed="#V" n="119"/>ergo predestinatio ab eterno est. 
     </p>
                <p xml:id="kzz7yh-a85314-d1e401">
-                  <lb ed="#V" n="120"/>Ad primum i oppicum der quod iuis quod iportat 
+                  <lb ed="#V" n="120"/>Ad primum in oppisitum deus quod illud quod importat 
       or<lb ed="#V" n="121" break="no"/>dine ad aliquid temperale non est 
       eter<lb ed="#V" n="122" break="no"/>num etc. dico quod verum est cum importat ordinem ad 
       tempo<lb ed="#V" n="123" break="no"/>rale: vt presens. predestinatio vero importat ordinem ad 
@@ -231,8 +233,8 @@
       ¶ Ad 2m cum dicitur 
       <lb ed="#V" n="125"/>quod predestinatio est preperatio gratie etc. dico quod hoc 
       intel<lb ed="#V" n="126" break="no"/>ligitur de preperatione interiori: que est in mente: secundum 
-      <lb ed="#V" n="127"/>quem modum dicimus quod artifex disponens aliquid 
-      se<lb ed="#V" n="128" break="no"/>facturum iam preperat illud opus quamuis nondum exterius 
+      <lb ed="#V" n="127"/>quem modum dicimus quod artifex disponens aliquid se 
+      <lb ed="#V" n="128"/>facturum iam preperat illud opus quamuis nondum exterius 
       <lb ed="#V" n="129"/>ceperit operari: sic autem deus ab eterno praeperauit electiu gratiam 
       <lb ed="#V" n="130"/>et glutiam eis in tempore conferendam.
    </p>
@@ -258,11 +260,12 @@
             </div>
             <div xml:id="kzz7yh-a85314-Dd1e468">
                <head xml:id="kzz7yh-a85314-Hd1e470">Quaestio 3</head>
+               <head type="question-title">Utrum predestinari solum hominibus conueniat</head>
                <p xml:id="kzz7yh-a85314-d1e472">
       Quaestio III. 
-      <lb ed="#V" n="8"/>Tertio queritur vtrum praedestina 
-      <lb ed="#V" n="9"/>ri solum hominibus 
-      com<lb ed="#V" n="10" break="no"/>cueniat: et videtur quod non quia quibus conuenit eligi 
+      <lb ed="#V" n="8"/>Tertio queritur vtrum 
+      praedestina<lb ed="#V" n="9" break="no"/>ri solum hominibus 
+      con<lb ed="#V" n="10" break="no"/>ueniat: et videtur quod non quia quibus conuenit eligi 
       il<lb ed="#V" n="11" break="no"/>lis conuenit predestinari: sed angeli qui modo beati sunt 
       <lb ed="#V" n="12"/>ab eterno fuerunt electi: ergo ab eterno predestinati: ergo 
       <lb ed="#V" n="13"/>non solum hominibus conuenit predestinari.
@@ -282,11 +285,11 @@
       <lb ed="#V" n="21"/>angelis bonis et malis. 
     </p>
                <p xml:id="kzz7yh-a85314-d1e510">
-                  <lb ed="#V" n="22"/>Contra magiter cap. vlti. huius Di. dicit quod 
+                  <lb ed="#V" n="22"/>Contra <ref>magister cap. vlti. huius Di.</ref> dicit quod 
       predestia<lb ed="#V" n="23" break="no"/>tio est scientia: et preperatio beneficiorum dei 
-      <lb ed="#V" n="24"/>quibus certissime liberantur quicunque liberantur. Et hoc sum 
-      <lb ed="#V" n="25"/>ptum est ab Augu. in libro de bono perseuerantie quasi circa 
-      <lb ed="#V" n="26"/>medium: sed liberari non conuenit nisi hominibus: Angeli enim 
+      <lb ed="#V" n="24"/>quibus certissime liberantur quicunque liberantur. Et hoc 
+      sum<lb ed="#V" n="25" break="no"/>ptum est ab <ref>Augu. in libro de bono perseuerantie quasi circa 
+      <lb ed="#V" n="26"/>medium:</ref> sed liberari non conuenit nisi hominibus: Angeli enim 
       <lb ed="#V" n="27"/>mali non liberabuntur: et angeli boni nunquam habuerut 
       mi<lb ed="#V" n="28" break="no"/>seriam. Liberatio autem non est nisi a miseria: solum ergo 
       ho<lb ed="#V" n="29" break="no"/>minibus conuenit predestinari.
@@ -298,8 +301,8 @@
    </p>
                <p xml:id="kzz7yh-a85314-d1e538">
                   <lb ed="#V" n="32"/>Respondeo quod fuisse praedestinatum non conuenit 
-      so<lb ed="#V" n="33" break="no"/>lis hominibus: sed etiam angelis bea 
-      <lb ed="#V" n="34"/>tis: quia cum predestinatio sit prescientia practica salutis alicuius 
+      so<lb ed="#V" n="33" break="no"/>lis hominibus: sed etiam angelis 
+      bea<lb ed="#V" n="34" break="no"/>tis: quia cum predestinatio sit prescientia practica salutis alicuius 
       <lb ed="#V" n="35"/>et ordinationis ipsius in salutem: vt supra visum est: et hoc 
       <lb ed="#V" n="36"/>ab eterno in deo fuit non tantummodo respectu hominum: sed 
       re<lb ed="#V" n="37" break="no"/>spectu angelorum: videtur quod non solum hominibus conueniat 
@@ -310,8 +313,9 @@
       lo<lb ed="#V" n="42" break="no"/>quendo quod predestinentur: et sic videtur quod predestinari 
       conue<lb ed="#V" n="43" break="no"/>niat solum hominibus saluandis. Ex predictis patere 
       po<lb ed="#V" n="44" break="no"/>test responsio ad argumenta ad vtranque partem. 
-      <lb ed="#V" n="45"/>Primum enim argumentum probat quod 
-      angeli<lb ed="#V" n="46" break="no"/>boni fuerunt predestinati: et 
+      <!--TODO: insert para break here-->
+      <lb ed="#V" n="45"/>Primum enim argumentum probat quod angeli 
+      <lb ed="#V" n="46"/>boni fuerunt predestinati: et 
       <lb ed="#V" n="47"/>hoc est verum: sed ex hoc non sequitur quod eis conueniat 
       pre<lb ed="#V" n="48" break="no"/>destinari: cum predestinari sit presentis temporis: et ipsi modo 
       <lb ed="#V" n="49"/>non predestinentur.
